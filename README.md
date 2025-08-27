@@ -125,3 +125,4 @@ The East region generates the most sales.
 Corporate customers have higher average order values than Consumers.
 
 Monthly sales show steady growth with seasonal peaks.
+<img width="1024" height="338" alt="image" src="https://github.com/user-attachments/assets/280e29b1-a1f2-4875-b649-64c1f989a10a" />
